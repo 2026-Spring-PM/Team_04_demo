@@ -1,0 +1,234 @@
+[
+  {
+    "id": "invalidItem",
+    "name": "Invalid Item",
+    "textureID": "items/invalid_item",
+    "category": "Invalid",
+    "useEffect": "None",
+    "basePrice": 0,
+    "maxStack": 0,
+    "effectValue": 0
+  },
+  {
+    "id": "money",
+    "name": "Coins",
+    "textureID": "items/placeholder",
+    "category": "Misc",
+    "useEffect": "None",
+    "basePrice": 1,
+    "maxStack": 999999,
+    "effectValue": 0
+  },
+  {
+    "id": "egg",
+    "name": "Egg",
+    "textureID": "items/animal_product/egg",
+    "category": "AnimalProduct",
+    "useEffect": "None",
+    "basePrice": 60,
+    "maxStack": 99,
+    "effectValue": 0
+  },
+  {
+    "id": "chicken_meat",
+    "name": "Chicken Meat",
+    "textureID": "items/food/chicken_meat",
+    "category": "Food",
+    "useEffect": "Eat",
+    "basePrice": 90,
+    "maxStack": 99,
+    "effectValue": 10
+  },
+  {
+    "id": "feather",
+    "name": "Feather",
+    "textureID": "items/material/feather",
+    "category": "Material",
+    "useEffect": "None",
+    "basePrice": 25,
+    "maxStack": 99,
+    "effectValue": 0
+  },
+  {
+    "id": "duck_egg",
+    "name": "Duck Egg",
+    "textureID": "items/animal_product/duck_egg",
+    "category": "AnimalProduct",
+    "useEffect": "None",
+    "basePrice": 95,
+    "maxStack": 99,
+    "effectValue": 0
+  },
+  {
+    "id": "duck_meat",
+    "name": "Duck Meat",
+    "textureID": "items/food/duck_meat",
+    "category": "Food",
+    "useEffect": "Eat",
+    "basePrice": 120,
+    "maxStack": 99,
+    "effectValue": 12
+  },
+  {
+    "id": "beef",
+    "name": "Beef",
+    "textureID": "items/food/beef",
+    "category": "Food",
+    "useEffect": "Eat",
+    "basePrice": 220,
+    "maxStack": 99,
+    "effectValue": 25
+  },
+  {
+    "id": "milk",
+    "name": "Milk",
+    "textureID": "items/animal_product/milk",
+    "category": "AnimalProduct",
+    "useEffect": "Eat",
+    "basePrice": 120,
+    "maxStack": 99,
+    "effectValue": 8
+  },
+  {
+    "id": "leather",
+    "name": "Leather",
+    "textureID": "items/material/leather",
+    "category": "Material",
+    "useEffect": "None",
+    "basePrice": 80,
+    "maxStack": 99,
+    "effectValue": 0
+  },
+  {
+    "id": "pork",
+    "name": "Pork",
+    "textureID": "items/food/pork",
+    "category": "Food",
+    "useEffect": "Eat",
+    "basePrice": 180,
+    "maxStack": 99,
+    "effectValue": 22
+  },
+  {
+    "id": "wool",
+    "name": "Wool",
+    "textureID": "items/material/wool",
+    "category": "Material",
+    "useEffect": "None",
+    "basePrice": 130,
+    "maxStack": 99,
+    "effectValue": 0
+  },
+  {
+    "id": "mutton",
+    "name": "Mutton",
+    "textureID": "items/food/mutton",
+    "category": "Food",
+    "useEffect": "Eat",
+    "basePrice": 170,
+    "maxStack": 99,
+    "effectValue": 20
+  },
+  {
+    "id": "medicine",
+    "name": "Medicine",
+    "textureID": "items/medicine/medicine",
+    "category": "Medicine",
+    "useEffect": "CureAnimal",
+    "basePrice": 200,
+    "maxStack": 99,
+    "effectValue": 1
+  },
+  {
+    "id": "vaccine",
+    "name": "Vaccine",
+    "textureID": "items/medicine/vaccine",
+    "category": "Medicine",
+    "useEffect": "PreventAnimalDisease",
+    "basePrice": 300,
+    "maxStack": 99,
+    "effectValue": 20
+  },
+  {
+    "id": "wateringCan",
+    "name": "Watering Can",
+    "textureID": "items/tool/wateringCan",
+    "category": "Tool",
+    "useEffect": "WaterCrop",
+    "basePrice": -1,
+    "maxStack": 1,
+    "effectValue": 1
+  }
+  ,
+  {
+    "id": "LF-01-crop",
+    "name": "Lettuce",
+    "textureID": "items/placeholder",
+    "category": "Crop",
+    "useEffect": "None",
+    "basePrice": 20,
+    "maxStack": 99,
+    "effectValue": 0
+  },
+  {
+    "id": "RT-01-crop",
+    "name": "Potato",
+    "textureID": "items/placeholder",
+    "category": "Crop",
+    "useEffect": "None",
+    "basePrice": 40,
+    "maxStack": 99,
+    "effectValue": 0
+  },
+  {
+    "id": "GR-01-crop",
+    "name": "Wheat",
+    "textureID": "items/placeholder",
+    "category": "Crop",
+    "useEffect": "None",
+    "basePrice": 25,
+    "maxStack": 99,
+    "effectValue": 0
+  }
+  ,
+  {
+    "id": "LF-01",
+    "name": "Lettuce Seed",
+    "textureID": "items/placeholder",
+    "category": "Seed",
+    "useEffect": "None",
+    "basePrice": 10,
+    "maxStack": 99,
+    "effectValue": 0
+  },
+  {
+    "id": "RT-01",
+    "name": "Potato Seed",
+    "textureID": "items/placeholder",
+    "category": "Seed",
+    "useEffect": "None",
+    "basePrice": 15,
+    "maxStack": 99,
+    "effectValue": 0
+  },
+  {
+    "id": "GR-01",
+    "name": "Wheat Seed",
+    "textureID": "items/placeholder",
+    "category": "Seed",
+    "useEffect": "None",
+    "basePrice": 12,
+    "maxStack": 99,
+    "effectValue": 0
+  },
+  {
+      "id": "GR-02",
+      "name": "Rice",
+      "textureID": "items/placeholder",
+      "category": "Misc",
+      "useEffect": "None",
+      "basePrice": 5,
+      "maxStack": 99,
+      "effectValue": 0
+  }
+]

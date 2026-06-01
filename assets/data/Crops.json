@@ -1,0 +1,122 @@
+[
+  {
+    "id": "invalidCrop",
+    "name": "Invalid Crop",
+    "textureID": "crops/invalidCrop",
+    "basePrice": 0,
+    "waterPeriod": 0,
+    "reqLight": 0,
+    "timeToGrow": 0,
+    "timeToSpoil": 0
+  },
+  {
+    "id": "LF-01",
+    "name": "Lettuce",
+    "textureID": "crops/LF-01",
+    "basePrice": 20,
+    "waterPeriod": 2,
+    "reqLight": 3,
+    "timeToGrow": 6,
+    "timeToSpoil": 10
+  },
+  {
+    "id": "LF-02",
+    "name": "Cabbage",
+    "textureID": "crops/LF-02",
+    "basePrice": 35,
+    "waterPeriod": 3,
+    "reqLight": 3,
+    "timeToGrow": 10,
+    "timeToSpoil": 14
+  },
+  {
+    "id": "RT-01",
+    "name": "Potato",
+    "textureID": "crops/RT-01",
+    "basePrice": 40,
+    "waterPeriod": 5,
+    "reqLight": 2,
+    "timeToGrow": 12,
+    "timeToSpoil": 18
+  },
+  {
+    "id": "RT-02",
+    "name": "Carrot",
+    "textureID": "crops/RT-02",
+    "basePrice": 30,
+    "waterPeriod": 4,
+    "reqLight": 3,
+    "timeToGrow": 9,
+    "timeToSpoil": 14
+  },
+  {
+    "id": "GR-01",
+    "name": "Wheat",
+    "textureID": "crops/GR-01",
+    "basePrice": 25,
+    "waterPeriod": 7,
+    "reqLight": 4,
+    "timeToGrow": 10,
+    "timeToSpoil": 24
+  },
+  {
+    "id": "GR-02",
+    "name": "Rice",
+    "textureID": "crops/GR-02",
+    "basePrice": 45,
+    "waterPeriod": 3,
+    "reqLight": 4,
+    "timeToGrow": 14,
+    "timeToSpoil": 18
+  },
+  {
+    "id": "GR-03",
+    "name": "Corn",
+    "textureID": "crops/GR-03",
+    "basePrice": 60,
+    "waterPeriod": 6,
+    "reqLight": 5,
+    "timeToGrow": 18,
+    "timeToSpoil": 24
+  },
+  {
+    "id": "TF-01",
+    "name": "Apple",
+    "textureID": "crops/TF-01",
+    "basePrice": 80,
+    "waterPeriod": 8,
+    "reqLight": 5,
+    "timeToGrow": 30,
+    "timeToSpoil": 30
+  },
+  {
+    "id": "TF-03",
+    "name": "Peach",
+    "textureID": "crops/TF-03",
+    "basePrice": 110,
+    "waterPeriod": 7,
+    "reqLight": 5,
+    "timeToGrow": 35,
+    "timeToSpoil": 26
+  },
+  {
+    "id": "VN-02",
+    "name": "Pumpkin",
+    "textureID": "crops/VN-02",
+    "basePrice": 120,
+    "waterPeriod": 6,
+    "reqLight": 5,
+    "timeToGrow": 34,
+    "timeToSpoil": 32
+  },
+  {
+    "id": "VN-03",
+    "name": "Watermelon",
+    "textureID": "crops/VN-03",
+    "basePrice": 130,
+    "waterPeriod": 3,
+    "reqLight": 5,
+    "timeToGrow": 36,
+    "timeToSpoil": 18
+  }
+]
