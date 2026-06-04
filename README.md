@@ -1,4 +1,4 @@
-# 🌾 Team_04 Farm Game
+# 🌾 Team_04 Farm Game [피드백 받아 수정한 Readme]
 
 A 2D top-down farming simulation game built with C++ and SFML.  
 Grow crops, raise animals, earn money, and level up your farm!
@@ -9,34 +9,6 @@ Grow crops, raise animals, earn money, and level up your farm!
 
 - Ubuntu (WSL or native)
 - Docker
-
----
-
-## 🚀 How to Run
-
-### 1. Clone the repository
-
-```bash
-git clone https://github.com/2026-Spring-PM/Team_04_demo.git
-cd Team_04_demo
-```
-
-### 2. Run the game
-
-```bash
-docker run -it --rm --platform linux/amd64 \
-  -e DISPLAY=$DISPLAY \
-  -v /tmp/.X11-unix:/tmp/.X11-unix \
-  -v $(pwd):/workspace \
-  -w /workspace \
-  jeongwanmoon/team_04_project:0.1.2 \
-  /workspace/build/main
-```
-
-> ⚠️ Do NOT use `bash scripts/run.sh` — it may fail to locate the assets folder.  
-> Use the command above directly instead.
-
----
 
 ## 🎮 Controls
 
